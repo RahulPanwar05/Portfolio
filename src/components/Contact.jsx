@@ -56,7 +56,7 @@ export default function Contact({ darkMode }) {
                     href="mailto:rahulpanwar900@gmail.com"
                     className=" hover:text-indigo-600 transition"
                   >
-                    rahulpanwar900@gmail.com
+                    rahul.panwar900@gmail.com
                   </a>
                 </div>
               </div>
