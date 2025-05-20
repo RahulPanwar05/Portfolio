@@ -1,6 +1,5 @@
 // components/Projects.jsx
 import React from "react";
-import { FaIndustry, FaVideo, FaRobot } from "react-icons/fa";
 import projectsData from "../data/projectsData";
 
 export default function Projects({ darkMode }) {
